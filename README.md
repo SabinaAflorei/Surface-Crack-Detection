@@ -1,4 +1,4 @@
-# Surface Crack Detection using Custom Canny Algorithm 🔍🏗️
+# Surface Crack Detection using Custom Canny Algorithm
 
 This repository contains a complete Computer Vision pipeline for the automated detection, isolation, and measurement of surface cracks in construction materials (e.g., concrete, asphalt, painted surfaces). 
 
